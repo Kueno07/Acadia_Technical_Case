@@ -1,4 +1,4 @@
-# Interview_cases
+# Acadia - Senior Consumer Data Analyst Position - Technical Case
 
 Thank you for taking the time to talk to us.
 
